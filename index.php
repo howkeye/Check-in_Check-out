@@ -34,8 +34,9 @@
                 </div>
                 <ul class="nav navbar-nav">
 
-                    <li><a href="#">Checkin</a></li>
-                    <li><a href="checkout.html">Checkout</a></li>
+                    <li><a href="indec.php">Checkin</a></li>
+                    <li><a href="checkout.php">Checkout</a></li>
+                    <li><a href="list.php"> List of all custmers </a></li>
                    
                 </ul>
             </div>
@@ -53,31 +54,31 @@
             <h2>
                 <center>Register</center>
             </h2>
-            <form action="/action_page.php">
+            <form action="checkin.php" method="post">
                 <div class="row">
                     <div class="col-lg-6">
                         <h2> Visiter details</h2>
                         <div class="form-group">
                             <label for="text">Name:</label>
-                            <input type="text" class="form-control" id="text" placeholder="Enter name" name="name">
+                            <input type="text" class="form-control" id="text" placeholder="Enter name" name="name" required>
                         </div>
                         <div class="form-group">
                             <label for="email">Email:</label>
-                            <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+                            <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" required>
                         </div>
                         <div class="form-group">
                             <label for="text">Phone:</label>
                             <input type="text" class="form-control" id="phone" placeholder="Enter phone no"
-                                name="phone">
+                                name="phone" required>
                         </div>
 
-                        <div class="form-group">
+                       <!-- <div class="form-group">
                             <label for="text">Check in:</label>
-                            <input type="text" class="form-control" id="ckeckin" placeholder="Enter ckeckin time"
+                            <input type="datetime" class="form-control" id="ckeckin" placeholder="Enter ckeckin time"
                                 name="checkin">
-                        </div>
-                       
+                        </div>  -->
 
+                       
                     </div>
 
 
@@ -85,25 +86,28 @@
 
                   
                                                                 <div class=" col-lg-6">
-                        <br> <br>
+                        
                         <h2> host details</h2>
                         <div class="form-group">
                             <label for="text">Name:</label>
-                            <input type="text" class="form-control" id="nameh" placeholder="Enter name" name="nameh">
+                            <input type="text" class="form-control" id="nameh" placeholder="Enter name" name="nameh" required>
                         </div>
                         <div class="form-group">
                             <label for="email">Email:</label>
-                            <input type="email" class="form-control" id="emailh" placeholder="Enter email"
+                            <input type="email" class="form-control" id="emailh" placeholder="Enter email" required
                                 name="emailh">
                         </div>
                         <div class="form-group">
                             <label for="text">Phone:</label>
-                            <input type="text" class="form-control" id="phoneh" placeholder="Enter phone no"
+                            <input type="text" class="form-control" id="phoneh" placeholder="Enter phone no" required
                                 name="phoneh">
                         </div>
                     </div>
                 </div>
+                <h4 style=" color: red;"> Note: We are taking Check-in time from system </h4>
+
                     <div class="row">
+
                             <div class="col-lg-4"></div>
                             <div class="col-lg-6">
                         <button type="submit" class="btn btn-primary">Submit</button></div>
@@ -115,24 +119,13 @@
         </div>
         </div>
 
-        <div class="container"> 
-                <form action="/action_page.php">
-                    <div class="form-group">
-                      <label for="email">Name:</label>
-                      <input type="email" class="form-control" id="email">
-                    </div>
-                    <div class="form-group">
-                      <label for="pwd">Checkout time:</label>
-                      <input type="text" class="form-control" id="pwd">
-                    </div>
-                  
-                    <button type="submit" class="btn btn-default">Submit</button>
-                  </form>
-        </div>
-
+    
 
 
 
     </body>
 
     </html>
+
+    
+    
