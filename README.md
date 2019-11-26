@@ -33,7 +33,7 @@
 # Website  Screenshot
 Index Page  ( @time of Chcek-in)          |
 :----------------------------------------------------:|
-![](https://imgur.com/b53cad6d-c52e-4d4b-bdb5-e6dfbafaf02f)   |
+![](https://i.imgur.com/GpBKoJb.png)   |
 
 checkout page  ( @time of Chcek-in)            | list page  ( @time of Chcek-out)
 :----------------------------------------------------:|:-----------------------------------:
