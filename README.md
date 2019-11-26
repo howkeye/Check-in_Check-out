@@ -9,6 +9,8 @@
 * When Host is checked-out mail will be send to host.
 * One can also see the list of all visited custmers.
 
+
+<center> # website  screenshot <center>
 <p align="center"><a href="https://symfony.com" target="_blank">
     <img src="https://i.imgur.com/Q2KNvG2.png">
 </a></p>
