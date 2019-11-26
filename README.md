@@ -9,6 +9,24 @@
 * When Host is checked-out mail will be send to host.
 * One can also see the list of all visited custmers.
 
+
+# Files and description
+1. Index.html : It contains registration form 
+                If form is submitted it goes to checkin.php
+              
+2. checkin.php : It connects to database and insert the provided guest data in the table.
+                 It also sends mail.
+                 
+                 
+3. checkout.php : It connects to database and displays the data of geust who have checked in.
+                 User can be selected and then checked out ( and redirected to out.php).
+                 
+         
+4. out.php : It removes the data as provided by checkout.php.
+              And then sends the mail.
+5. list.php : It displays all the users that have checked in or checked out.
+                 
+
 # Website  Screenshot
 <p align="center">
     <img src="https://i.imgur.com/Q2KNvG2.png">
@@ -18,3 +36,6 @@
 Mail sent to visiter  ( @time of Chcek-in)            |  mail send to Host( @time of Chcek-out)
 :----------------------------------------------------:|:-----------------------------------:
 ![](https://i.imgur.com/Hlgl4R8.png)                | ![](https://i.imgur.com/Hlgl4R8.png) 
+
+
+
