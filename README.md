@@ -22,3 +22,6 @@
 <p align="center"style="max_width:50%;>
     <img src="https://i.imgur.com/Q2KNvG2.png">
 </a></p>
+                                              Solarized dark             |  Solarized Ocean
+                                              :-------------------------:|:-------------------------:
+                                              ![](https://i.imgur.com/Q2KNvG2.png)  | ![](https://i.imgur.com/Q2KNvG2.png) 
