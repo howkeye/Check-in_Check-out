@@ -1,7 +1,8 @@
 # Check-in_Check-out
 * This Project assignment for Summergeeks by Innovancer 
 * It is hosted at http://almat.almafiesta.com/assignment/
-* I have used php as backend language and html css (using bootstrap as framework).
+* Used php as backend language and html css (using bootstrap as framework) as frontend.
+* Mysql as database.
 
 ## Feature Supported
 * One can register ( check-in) a guest along with host details.
