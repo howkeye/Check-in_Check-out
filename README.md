@@ -31,6 +31,10 @@
                  
 
 # Website  Screenshot
+Mail sent to visiter  ( @time of Chcek-in)            |  mail send to Host( @time of Chcek-out)
+:----------------------------------------------------:|:-----------------------------------:
+![](https://i.imgur.com/Q2KNvG2.png)                | ![](https://i.imgur.com/Q2KNvG2.png) 
+
 <p align="center">
     <img src="https://i.imgur.com/Q2KNvG2.png">
 </a></p>
