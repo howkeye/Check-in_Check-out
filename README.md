@@ -10,6 +10,16 @@
 * One can also see the list of all visited custmers.
 
 # Website  Screenshot
-<p align="center"><a href="https://symfony.com" target="_blank">
+<p align="center">
+    <img src="https://i.imgur.com/Q2KNvG2.png">
+</a></p>
+
+# Mail screenshots
+
+<p align="center"style="max_width:50%;>
+    <img src="https://i.imgur.com/Q2KNvG2.png">
+</a></p>
+
+<p align="center"style="max_width:50%;>
     <img src="https://i.imgur.com/Q2KNvG2.png">
 </a></p>
