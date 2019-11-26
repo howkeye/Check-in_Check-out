@@ -37,7 +37,7 @@ Index Page  ( @time of Chcek-in)          |
 
 checkout page  ( @time of Chcek-in)            | list page  
 :----------------------------------------------------:|:-----------------------------------:
-![](https://i.imgur.com/l1Qw9Xq.png)              | ![]https://(i.imgur.com/3esRpdD.png) 
+![](https://i.imgur.com/l1Qw9Xq.png)              | ![](https://(i.imgur.com/3esRpdD.png) 
 
 
 
