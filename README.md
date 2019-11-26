@@ -33,11 +33,11 @@
 # Website  Screenshot
 Index Page  ( @time of Chcek-in)          |
 :----------------------------------------------------:|
-![](https://i.imgur.com/GpBKoJb.png)   |
+![](https://i.imgur.com/0RsZOn5.png)  |
 
-checkout page  ( @time of Chcek-in)            | list page  ( @time of Chcek-out)
+checkout page  ( @time of Chcek-in)            | list page  
 :----------------------------------------------------:|:-----------------------------------:
-![](https://i.imgur.com/8UvnUMo.png)                | ![](https://i.imgur.com/Q2KNvG2.png) 
+![](https://i.imgur.com/l1Qw9Xq.png)              | ![]https://(i.imgur.com/3esRpdD.png) 
 
 
 
