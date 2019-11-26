@@ -4,6 +4,8 @@
 * Used php as backend language and html css (using bootstrap as framework) as frontend.
 * Mysql as database.
 
+
+
 ## Feature Supported
 * One can register ( check-in) a guest along with host details.
 * Host will get a mail.
