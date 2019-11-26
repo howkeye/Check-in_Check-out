@@ -15,8 +15,7 @@
 </a></p>
 
 # Mail screenshots
-
-<p align="center"style="max_width:50%;>
+<p align="center">
     <img src="https://i.imgur.com/Q2KNvG2.png">
 </a></p>
 
