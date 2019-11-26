@@ -31,13 +31,14 @@
                  
 
 # Website  Screenshot
-Mail sent to visiter  ( @time of Chcek-in)            |  mail send to Host( @time of Chcek-out)
+index page  ( @time of Chcek-in)            |  mail checkout page( @time of Chcek-out)
 :----------------------------------------------------:|:-----------------------------------:
 ![](https://i.imgur.com/Q2KNvG2.png)                | ![](https://i.imgur.com/Q2KNvG2.png) 
 
-<p align="center">
-    <img src="https://i.imgur.com/Q2KNvG2.png">
-</a></p>
+
+index page  ( @time of Chcek-in)          |
+:----------------------------------------------------:|
+![](https://i.imgur.com/Q2KNvG2.png)     |
 
 # Mail screenshots
 Mail sent to visiter  ( @time of Chcek-in)            |  mail send to Host( @time of Chcek-out)
