@@ -49,10 +49,7 @@ checkout page  ( @time of Chcek-in)            | list page
 
 
 
-# Mail screenshots
-Mail sent to visiter  ( @time of Chcek-in)            |  mail send to Host( @time of Chcek-out)
-:----------------------------------------------------:|:-----------------------------------:
-![](https://i.imgur.com/1DkHEEj.png)         | ![](https://i.imgur.com/i1TYom0.png) 
+
 
 
 
