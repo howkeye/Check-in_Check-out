@@ -45,9 +45,6 @@ checkout page  ( @time of Chcek-in)            | list page
 
 
 
-checkout page  ( @time of Chcek-in)            | list page  
-:----------------------------------------------------:|:-----------------------------------:
-![](         | ![](
 
 
 
