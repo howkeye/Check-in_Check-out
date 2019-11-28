@@ -30,6 +30,9 @@
 5. list.php : It displays all the users that have checked in or checked out.
                  
 
+
+
+
 # Website  Screenshot
 Index Page  ( @time of Chcek-in)          |
 :----------------------------------------------------:|
@@ -42,11 +45,17 @@ checkout page  ( @time of Chcek-in)            | list page
 
 
 
+checkout page  ( @time of Chcek-in)            | list page  
+:----------------------------------------------------:|:-----------------------------------:
+![](         | ![](
+
+
+
 
 # Mail screenshots
 Mail sent to visiter  ( @time of Chcek-in)            |  mail send to Host( @time of Chcek-out)
 :----------------------------------------------------:|:-----------------------------------:
-![](https://i.imgur.com/Hlgl4R8.png)                | ![](https://i.imgur.com/Hlgl4R8.png) 
+![](https://i.imgur.com/1DkHEEj.png)         | ![](https://i.imgur.com/i1TYom0.png) 
 
 
 
