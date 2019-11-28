@@ -40,7 +40,7 @@ Index Page  ( @time of Chcek-in)          |
 
 checkout page  ( @time of Chcek-in)            | list page  
 :----------------------------------------------------:|:-----------------------------------:
-![](https://i.imgur.com/1DkHEEj.png)           | ![](https://i.imgur.com/i1TYom0.png) 
+![](https://camo.githubusercontent.com/1462efd133bb0799f45c35d865de6362a71aa0bc/68747470733a2f2f692e696d6775722e636f6d2f6c3151773958712e706e67)           | ![](https://camo.githubusercontent.com/ac28df7910c329f7033042099e1e286d408a33f9/68747470733a2f2f692e696d6775722e636f6d2f336573527064442e706e67)
 
 
 
